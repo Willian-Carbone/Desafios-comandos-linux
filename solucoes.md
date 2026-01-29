@@ -5,5 +5,5 @@ p4-b solução --> mkdir foo
 p5-i solução --> mkdir -p foo/bar/1/2/3
 p6-b solução --> rm -rf foo
 p7-b solução --> echo "hello world"
-
+p8-b solução --> echo "hello world" > hello.txt
 
