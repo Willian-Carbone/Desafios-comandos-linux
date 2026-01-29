@@ -24,6 +24,7 @@ p23-a soluções --> challenges/redirect >output.txt
 p24-b soluções --> date
 p25-b soluções --> ps aux
 p26-b soluções --> nproc
+p27-b soluções --> uname -r
 
 
 
