@@ -26,4 +26,5 @@ p25-b soluções --> ps aux
 p26-b soluções --> nproc
 p27-b soluções --> uname -r
 p28-b soluções --> grep -R "You found the needle in the haystack!"challenges/bunch_of_files/
+p29-b soluções --> head -n 25 challenges/people.csv
 
