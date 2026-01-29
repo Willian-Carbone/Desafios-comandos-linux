@@ -23,6 +23,7 @@ p22-b soluções --> sudo apt install build-essesntial e depois ggc compile_mec 
 p23-a soluções --> challenges/redirect >output.txt
 p24-b soluções --> date
 p25-b soluções --> ps aux
+p26-b soluções --> nproc
 
 
 
