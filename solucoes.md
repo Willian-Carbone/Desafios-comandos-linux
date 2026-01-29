@@ -7,5 +7,6 @@ p6-b solução --> rm -rf foo
 p7-b solução --> echo "hello world"
 p8-b solução --> echo "hello world" > hello.txt
 p9-b solução --> touch empty.txt
+p10-b soluções  --> rm empty.txt
 
 
