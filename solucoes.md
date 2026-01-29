@@ -21,6 +21,7 @@ p20-b soluções -->( a partir da pasta challanges) ./hello_executable
 p21-b soluções --> challenges/challenge_20 ( a partir do repositorio usando chmod +x caminho para liberar permissao)
 p22-b soluções --> sudo apt install build-essesntial e depois ggc compile_mec -o compile_me
 p23-a soluções --> challenges/redirect >output.txt
+p24-b soluções --> date
 
 
 
