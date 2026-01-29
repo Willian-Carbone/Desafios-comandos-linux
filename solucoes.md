@@ -16,4 +16,6 @@ p15-i soluções --> diff hello.txt hello_copy.txt
 p16-b soluções --> cat hello.txt hello_copy.txt > 2_hellos.txt
 p17-b soluções --> pwd
 p18-b soluções --> ls -l 
-p19 -b soluções --> echo "texto adicionado"|sudo tee -a restricted.txt
+p19-b soluções --> echo "texto adicionado"|sudo tee -a restricted.txt
+p20-b --> soluções ( a partir da pasta challanges) ./hello_executable
+
