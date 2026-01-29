@@ -41,3 +41,4 @@ p40-a soluções --> sed 1d challenges/people.csv|cut -d',' -f2 | sort |uniq| wc
 p41-a soluções --> utilizando time em ambos, vemos que ele tem performance equivalente o custo dominante vem do comando sort
 p42-a soluções--> cut -d ',' -f4 challenges/people.csv|grape -w "Ĵosiah$"|wc -l
 p43-i soluções --> find challenges -type f| wc-l
+p44 - i soluções --> find challenges -tipe d | wc -1) -l o -1 tira o proprio challenges da contagem
