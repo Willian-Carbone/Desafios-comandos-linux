@@ -28,3 +28,4 @@ p27-b soluções --> uname -r
 p28-b soluções --> grep -R "You found the needle in the haystack!"challenges/bunch_of_files/
 p29-b soluções --> head -n 25 challenges/people.csv
 p30-b soluções --> tail -n 25 challenges/people.csv
+p31-b soluções --> diff challenges/gretting1.txt greeting2.txt
