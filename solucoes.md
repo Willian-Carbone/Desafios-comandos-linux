@@ -36,3 +36,4 @@ p35-i soluções -->wc -l README.txt
 p36-b soluções --> tac README.txt
 p37-i soluções --> cut -d "," -f2 challenges/people.csv
 p38-a soluções ->cut -d ","f2 challenges/people.csv|sort|uniq|wc -l
+p39-a soluçoes --> sim cut id "," -f challenges/people.csv|head (comprova)
