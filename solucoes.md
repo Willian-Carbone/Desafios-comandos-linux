@@ -9,7 +9,8 @@ p8-b solução --> echo "hello world" > hello.txt
 p9-b solução --> touch empty.txt
 p10-b soluções  --> rm empty.txt
 p11-i soluções --> >empty.txt
-p12-i soluções --> echo -n 11 >empty.txt
+p12-i soluções --> echo -n >empty.txt
 p13-b soluções --> cp hello.txt goodbye.txt
-
+p14-b soluções --> mv goodbye.txt hello_copy.txt
+p15-i soluções --> diff hello.txt hello_copy.txt
 
