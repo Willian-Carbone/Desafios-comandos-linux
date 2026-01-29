@@ -18,7 +18,7 @@ p17-b soluções --> pwd
 p18-b soluções --> ls -l 
 p19-b soluções --> echo "texto adicionado"|sudo tee -a restricted.txt
 p20-b soluções -->( a partir da pasta challanges) ./hello_executable
-p21-b soluções --> challenges/challenge_20 ( a partir do repositorio usando chmod +x caminho para permissao)
+p21-b soluções --> challenges/challenge_20 ( a partir do repositorio usando chmod +x caminho para liberar permissao)
 
 
 
