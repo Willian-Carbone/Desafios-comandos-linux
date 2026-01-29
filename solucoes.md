@@ -32,3 +32,4 @@ p31-i soluções --> diff challenges/gretting1.txt greeting2.txt
 p32-i soluções --> echo "hello";sleep 5 ; echo "world"
 p33-i soluções --> dd if=/dev/zero of=ono_mb.txt bs=1M count=1
 p34-i soluções --> dd if=/dev/urandom of=two_mb.txt bs=1M count=2
+p35-i soluções -->wc -l README.txt
