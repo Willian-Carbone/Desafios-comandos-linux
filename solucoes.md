@@ -35,3 +35,4 @@ p34-i soluções --> dd if=/dev/urandom of=two_mb.txt bs=1M count=2
 p35-i soluções -->wc -l README.txt
 p36-b soluções --> tac README.txt
 p37-i soluções --> cut -d "," -f2 challenges/people.csv
+p38-a soluções ->cut -d ","f2 challenges/people.csv|sort|uniq|wc -l
