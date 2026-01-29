@@ -38,4 +38,4 @@ p37-i soluções --> cut -d "," -f2 challenges/people.csv
 p38-a soluções ->cut -d ","f2 challenges/people.csv|sort|uniq|wc -l
 p39-a soluçoes --> sim cut id "," -f challenges/people.csv|head (comprova)
 p40-a soluções --> sed 1d challenges/people.csv|cut -d',' -f2 | sort |uniq| wc -l
-p41-a soluções --> utilizando time em ambos, vemos que ele tem performance equivalente o custo dominante é o comando sort
+p41-a soluções --> utilizando time em ambos, vemos que ele tem performance equivalente o custo dominante vem do comando sort
