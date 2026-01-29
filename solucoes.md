@@ -30,3 +30,4 @@ p29-b soluções --> head -n 25 challenges/people.csv
 p30-b soluções --> tail -n 25 challenges/people.csv
 p31-i soluções --> diff challenges/gretting1.txt greeting2.txt
 p32-i soluções --> echo "hello";sleep 5 ; echo "world"
+p33-1 soluções --> dd if=/dev/zero of=ono_mb.txt bs=1M count=1
