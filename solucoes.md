@@ -46,4 +46,5 @@ p45-i soluções --> rm -f challenges/*deleteme*
 p46-i soluçoes --> sed -i 's/You found teh needle in the haystack/ the neddle has been removed./g'challenges/bunch_of_files/file719.rand
 p47-a soluções --> tr "," '|' <challenges/people.csv> people_pipe.csv
 p48-a soluções --> find challenges/bunch_of_files/ -type f cmp -s {} bunch_of_files/file001.rand\; - print
+p49-a soluções --> rm -f (minimo de carcteres ue diferenciam o arquivo de outro, no meu caso as iniciais su, pois só s confundiria com o arquivo soluções) + (tecla tab)
 
